@@ -1,4 +1,4 @@
-Laravel 5 BoilerPlate Template
+Laravel 5.4 BoilerPlate Template
 ======================
 
 _Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel 5 applications. It's built with Laravel with minimal features including Login, Sign Up and Profile View and Update with AJAX Image Upload.
