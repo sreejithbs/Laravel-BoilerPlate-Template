@@ -35,7 +35,7 @@ _Laravel Boilerplate_ provides a very flexible and extensible way of building yo
 ## Screenshots
 ![01](https://user-images.githubusercontent.com/30528898/28743532-b8d03d5e-7469-11e7-95e6-efef889d8e24.png)
 ![02](https://user-images.githubusercontent.com/30528898/28743533-bb07d26c-7469-11e7-83cb-f1086e492a13.png)
-![03](https://user-images.githubusercontent.com/30528898/28743535-bcbba408-7469-11e7-97e5-d8ef365af726.png)
+![03](https://user-images.githubusercontent.com/30528898/28743824-0e907040-7471-11e7-8d86-86e745b4cbd4.png)
 
 
 ## License
